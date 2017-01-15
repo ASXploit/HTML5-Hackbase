@@ -12,7 +12,6 @@
  * Still cleaner code than most others..
  */
 (function(me) {
-
 (function() {
     document.addEventListener('keyup', function(e) {
         switch(e.keyCode || e.which) {
