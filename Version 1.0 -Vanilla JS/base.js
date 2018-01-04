@@ -27,6 +27,7 @@
     }); // end event;
 })(); // end keyHook;
 (function Update() {
+    console.log('Hello');
 setTimeout(Update, 100);
 })(); // end update;
 })(window); // end;
